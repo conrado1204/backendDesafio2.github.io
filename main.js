@@ -87,7 +87,7 @@ class ProductManager {
   }
 }
 
-// Ejemplo de uso:
+
 
 const manager = new ProductManager('productos.txt');
 
